@@ -1,4 +1,4 @@
-
+//This was pushed to github using the terminal!
 //Setting Kelvin temp. This value wont change
 const kelvin = 293;
 
